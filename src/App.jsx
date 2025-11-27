@@ -6,7 +6,7 @@ const Inicio=() => {
   <>
       <h1>Inicio</h1>
         <div className="cuerpo">
-        
+        hola
         </div>  
   </>
     
